@@ -1,7 +1,7 @@
 # loading
 ClipDrawable代表从其它位图上截取一个"图片片段",
 
-
+![screenshot_2016-07-07-09-56-35](https://cloud.githubusercontent.com/assets/19581750/16640426/8d847c3e-442a-11e6-9406-8f10f94245ba.png)
 
 
 public class CustomClipLoading extends FrameLayout {
