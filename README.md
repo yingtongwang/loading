@@ -1,5 +1,9 @@
 # loading
 ClipDrawable代表从其它位图上截取一个"图片片段",
+
+
+
+
 public class CustomClipLoading extends FrameLayout {
     public static final int a = 10000;
     public ClipDrawable b;
@@ -42,3 +46,5 @@ public class CustomClipLoading extends FrameLayout {
 
     }
 }
+
+
